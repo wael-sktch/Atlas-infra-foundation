@@ -5,7 +5,7 @@
 
 Enterprise infrastructure lab built using:
 
-- Proxmox
+- Virtual Box
 - pfSense
 - Windows Server 2022
 - Active Directory
