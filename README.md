@@ -1,54 +1,47 @@
 # Atlas Infrastructure Foundation
 
-## Overview
+## Project Overview
 
 Enterprise infrastructure lab built using:
 
-- Virtual Box
 - pfSense
-- Windows Server 2022
 - Active Directory
 - DNS
 - Ubuntu Linux
+- GitHub Documentation
 
-## Network Layout
+## Network Diagram
 
-### Users Network
-10.10.10.0/24
+<img width="176" height="218" alt="Screenshot 2026-07-07 225134" src="https://github.com/user-attachments/assets/809c448f-7a0b-486d-a35e-c04b4a5a1597" />
 
-### Servers Network
+
+## Components
+
+### Firewall
+
+- pfSense
+
+### Active Directory
+
+- Domain Controller (DC01)
+- DNS
+- Organizational Units
+
+### Linux
+
+- Ubuntu01
+- Ubuntu02
+
+### Clients
+
+- Windows Domain Client
+
+## Networks
+
+### Servers
+
 10.10.20.0/24
 
-## Infrastructure Components
+### Users
 
-| Host | IP |
-|--------|--------|
-| pfSense | 10.10.20.1 |
-| DC01 | 10.10.20.10 |
-| Ubuntu01 | 10.10.20.20 |
-| Ubuntu02 | 10.10.20.21 |
-
-## Current Status
-
-✅ pfSense Installed
-
-✅ Firewall Rules Configured
-
-✅ DHCP Working
-
-✅ Active Directory Installed
-
-✅ DNS Working
-
-✅ Client Joined To Domain
-
-✅ Ubuntu01 Installed
-
-⏳ Ubuntu02 Deployment
-
-## Next Phase
-
-- Docker
-- Portainer
-- Ansible
-- Monitoring
+10.10.10.0/24
