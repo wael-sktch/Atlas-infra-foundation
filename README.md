@@ -1,4 +1,3 @@
-# Atlas-infra-foundation
 # Atlas Infrastructure Foundation
 
 ## Overview
