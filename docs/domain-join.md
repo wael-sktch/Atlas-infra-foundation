@@ -94,15 +94,15 @@ Expected:
 
 ## IP Configuration
 
-../screenshots/client/ipconfig.png
+<img width="392" height="281" alt="Screenshot 2026-07-09 005654" src="https://github.com/user-attachments/assets/edda559d-19bd-4979-b7f1-636494b8ba67" />
 
 ## DNS Validation
 
-../screenshots/client/dns-test.png
+<img width="454" height="211" alt="Screenshot 2026-07-09 010112" src="https://github.com/user-attachments/assets/c53828cb-c040-45d6-8feb-d9ef62ec3644" />
 
 ## Domain User Verification
 
-../screenshots/client/whoami.png
+<img width="464" height="259" alt="Screenshot 2026-07-09 005909" src="https://github.com/user-attachments/assets/fb50ed3c-99be-4cf5-8113-004de140f7a2" />
 
 ---
 
