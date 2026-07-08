@@ -2,7 +2,7 @@
 
 ## Domain
 
-atlas.local
+Atlas.local
 
 ## Domain Controller
 
@@ -20,7 +20,7 @@ DC01
 
 ### Domain Discovery
 
-realm discover atlas.local
+realm discover Atlas.local
 
 <img width="352" height="274" alt="Screenshot 2026-07-08 234021" src="https://github.com/user-attachments/assets/1aefa472-82ca-4400-aea1-d2aa614eab57" />
 
@@ -34,7 +34,7 @@ realm list
 
 ### User Lookup
 
-id Administrator@atlas.local
+id Administrator@Atlas.local
 
 <img width="439" height="226" alt="Screenshot 2026-07-08 234151" src="https://github.com/user-attachments/assets/1b9e9b5c-5c3c-4a50-80e2-1fa949eeb330" />
 
