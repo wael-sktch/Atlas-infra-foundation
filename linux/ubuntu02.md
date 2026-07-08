@@ -1,3 +1,4 @@
+
 # Ubuntu02
 
 ## Overview
@@ -81,12 +82,23 @@ Ubuntu02 will host:
 
 ### Network Configuration
 
-../screenshots/linux/ubuntu02-network.png
+<img width="446" height="274" alt="Screenshot 2026-07-08 235123" src="https://github.com/user-attachments/assets/c0204e46-c54b-45b9-ab7d-e5bc751a2fde" />
 
 ### Routing Table
 
-../screenshots/linux/ubuntu02-route.png
+<img width="392" height="160" alt="Screenshot 2026-07-08 235214" src="https://github.com/user-attachments/assets/4dc87bb9-c47c-4902-a989-596b76721cfc" />
+
+
+## Validation
 
 ### DNS Resolution
 
-../screenshots/linux/ubuntu02-dns.png
+Command:
+
+nslookup atlas.local 10.10.20.10
+
+Result:
+
+atlas.local resolved successfully through DC01 (10.10.20.10).
+
+<img width="390" height="137" alt="Screenshot 2026-07-08 235314" src="https://github.com/user-attachments/assets/d6eda389-f320-4113-9234-6f61f0c7261e" />
