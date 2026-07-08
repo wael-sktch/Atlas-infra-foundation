@@ -49,11 +49,11 @@ Provide:
 
 ### Server Manager
 
-../screenshots/active-directory/server-manager.png
+<img width="503" height="347" alt="Screenshot 2026-07-08 170423" src="https://github.com/user-attachments/assets/11288a77-a003-43e9-88b2-c7e2df1b381d" />
 
 ### Network Configuration
 
-../screenshots/active-directory/dc01-network.png
+<img width="497" height="266" alt="Screenshot 2026-07-08 170504" src="https://github.com/user-attachments/assets/7de66fec-510a-4e0f-8c3c-946de78ec940" />
 
 ### DNS Zone
 
